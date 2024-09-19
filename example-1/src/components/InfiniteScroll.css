@@ -1,0 +1,11 @@
+/* src/components/InfiniteScroll.css */
+.items-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .last-item {
+    height: 1px;
+  }
+  
